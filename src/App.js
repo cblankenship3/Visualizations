@@ -1,10 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
+import Sudoku from './Sudoku/Sudoku';
 
 function App() {
   return (
     <div className="App">
-      Test 2
+      <Sudoku></Sudoku>
     </div>
   );
 }
